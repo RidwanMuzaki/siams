@@ -1,5 +1,5 @@
 # SIAMS
-Student Innovative Achievements Managements System
+Student Innovative Achievements Managements System, function include:
 1. User information: Login and logout the system, changing password, updating private information.
 2. Logging record: Be able to record who log in this system at when.
 3. Student users can create a record of innovative achievement, modify or withdraw the record, and check the status of this record. Student users can be created, modified and disabled by administrative users.
